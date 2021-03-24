@@ -1,0 +1,9 @@
+.card{
+    position:relative;
+}
+
+.card-header{
+    position: absolute;
+    top: -4rem;
+    right: 6rem;
+}
